@@ -90,7 +90,7 @@ def apagarNUM():
 
 
 # Entry
-valores = CTkEntry(root, fg_color='#0D0D0D',bg_color='#0D0D0D',width=250, border_color='#0D0D0D',height=50, font=('Inter', 50))
+valores = CTkEntry(root, fg_color='#0D0D0D',bg_color='#0D0D0D',width=345, border_color='#0D0D0D',height=50, font=('Inter', 50))
 valores.place(x=20, y=30)
 
 # Button
